@@ -25,16 +25,6 @@ This project analyzes a dataset of approximately 539,000 flight records from 202
 - Seaborn
 - Google Colab
 
-## 📈 Key Visualizations
-
-### 1. Airline with the Highest Average Arrival Delay
-![Airline Highest Average Arrival Delay](images/airline_highest_avg_arrival_delay.png)
-
-### 2. Airport with the Highest Average Arrival Delay
-![Airport Highest Average Arrival Delay](images/airport_highest_avg_arrival_delay.png)
-
-### 3. Arrival Delays Distribution Across Flights
-![Arrival Delays Distribution](images/arrival_delays_distribution.png)
 
 ## 🔍 Key Insights
 
@@ -59,8 +49,4 @@ Flight-Delay-Analysis-2024/
 3. Update the file path to point to the downloaded dataset
 4. Run all cells
 
-## 👤 Author
 
-**Mona**
-Data Analyst | Power BI · SQL · Python
-[LinkedIn](#) · [GitHub](#)
